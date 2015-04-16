@@ -1,0 +1,9 @@
+{
+  "name": "fe-demo-project",
+  "version": "0.0.1",
+  "description": "frontend demo",
+  "license": "MIT",
+  "devDependencies": {
+    "angular": "~1.3.15"
+  }
+}

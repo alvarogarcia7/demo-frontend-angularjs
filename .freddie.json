@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "port": 3000,
+  "root": ".",
+  "fixtures": {
+    "/api": "fixtures"
+  }
+}
