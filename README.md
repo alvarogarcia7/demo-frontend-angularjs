@@ -2,6 +2,10 @@
 
 Using angularjs
 
+## Introduction
+
+There are some slides in the 'slides' folder
+
 ## Usage
 
 ### In the browser
